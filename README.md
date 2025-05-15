@@ -1,5 +1,5 @@
 ***
-# <h1 align="center"> 💥Challenge Conversor de Monedas consumiendo ExchangeRate-API💥 </h1>
+# <h1 align="center"> 💥Aplicación Audio (canciones, potcasts)💥 </h1>
 ***
 
 ![img](images/Modelo.png)
